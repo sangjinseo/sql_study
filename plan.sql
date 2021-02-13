@@ -34,3 +34,5 @@ set autotrace traceonly exp;
     where deptno = 10
       and no = 1;
     -- cost 29 가 발생
+
+###p27 페이지부터 공부할것 ( 표 )
